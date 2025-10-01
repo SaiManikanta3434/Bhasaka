@@ -1,6 +1,6 @@
 import React from "react";
-import One from "../assets/one.png";
-import Two from "../assets/two.png";
+import One from "../assets/One.png";
+import Two from "../assets/Two.png";
 import Bhaska from "../assets/Bhaskha.png";
 
 

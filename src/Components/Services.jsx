@@ -6,7 +6,7 @@ import frontend from "../assets/frontend.jpg"
 import web from "../assets/web.webp"
 import software from "../assets/Software.png"
 import application from "../assets/application.webp"
-import ai from "../assets/ai.png"
+import ai from "../assets/Ai.png"
 
 // NOTE: Please ensure these image URLs are valid and accessible
 const services = [
